@@ -1,3 +1,4 @@
 [submodule "SubModule"]
 	path = SubModule
 	url = https://github.com/litianying137/SubModule.git
+	branch = 1-0
